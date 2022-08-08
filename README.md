@@ -1,4 +1,4 @@
-# Руководство по стилю проекта UE5 от [Gamemakin](https://gamemak.in), перевод КоМиГо {
+# Руководство по стилю проекта UE5 от [Gamemakin](https://gamemak.in), перевод КоМиГо
 
 *Наиболее разумный подход к Unreal Engine 5*
 
